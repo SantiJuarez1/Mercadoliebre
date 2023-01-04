@@ -220,6 +220,11 @@ header ul {
   text-align: center;
 }
 
+.bloque-footer{
+  
+  flex-grow: 1;
+  flex-basis: 0;
+}
 /* articles */
 
 @media (min-width: 361px) {
